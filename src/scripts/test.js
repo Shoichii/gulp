@@ -1,0 +1,1 @@
+export const test23 = 'test';
